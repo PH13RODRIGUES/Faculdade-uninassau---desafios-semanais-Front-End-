@@ -1,0 +1,32 @@
+.conteiner{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    gap: 10em;
+    margin: 20px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.p-20{
+    padding: 20px;
+}
+
+.box-1 {
+    background-color: goldenrod;
+    width: 200px;
+    height: 150px;
+}
+
+.box-2 {
+    background-color: blueviolet;
+    width: 200px;
+    height: 150px;
+}
+
+.box-3 {
+    background-color: rgb(13, 102, 35);
+    width: 200px;
+    height: 150px;
+}
